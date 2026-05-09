@@ -39,7 +39,7 @@ sequenceDiagram
 - `TCP_UDP/`: ejemplos básicos de cliente-servidor usando sockets TCP y UDP.
 - `Taller04-1.pdf`: enunciado o soporte del taller.
 
-## Ejecución rápida
+## ¿Cómo ejecutar?
 
 ```bash
 cd THREADS
