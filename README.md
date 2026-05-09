@@ -1,6 +1,6 @@
 # Taller 04
 
-Repo de ejercicios de **Sistemas Distribuidos** en Java sobre **hilos** y **comunicación por sockets TCP/UDP**. El taller analiza dos ejes: la diferencia entre **TCP y UDP** en un esquema cliente-servidor, y la diferencia entre **ejecución secuencial y concurrente** en Java mediante una simulación de cajeras, clientes y tiempos de procesamiento.
+Repo de ejercicios de **Sistemas Distribuidos** en Java orientado al análisis práctico de dos temas base del curso. Por un lado, incluye ejemplos de comunicación **cliente-servidor** con sockets para comparar el comportamiento de **TCP** y **UDP**, observando cómo se envían y reciben mensajes, qué puertos utiliza cada implementación y cuáles son sus diferencias generales en conexión, confiabilidad y simplicidad. Por otro lado, incluye una simulación de atención en supermercado para comparar una ejecución **secuencial** frente a una **concurrente** en Java, usando clases como `Cliente`, `Cajera`, `Main`, `MainRunnable` y `CajeraThread`, con el fin de ver cómo cambia el tiempo total de procesamiento cuando varias tareas avanzan al mismo tiempo.
 
 ## Contenido
 
