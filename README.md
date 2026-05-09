@@ -1,6 +1,6 @@
 # Taller 04
 
-Resumen muy breve: repo de ejercicios de **Sistemas Distribuidos** en Java sobre **hilos** y **comunicación por sockets TCP/UDP**.
+Repo de ejercicios de **Sistemas Distribuidos** en Java sobre **hilos** y **comunicación por sockets TCP/UDP**.
 
 ## Contenido
 
